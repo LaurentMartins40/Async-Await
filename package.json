@@ -1,0 +1,27 @@
+{
+  "name": "Async-Await",
+  "version": "1.0.0",
+  "description": "Async-Await",
+  "main": "index.js",
+  "bin": {
+    "Async-Await": "index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaurentMartins40/Async-Await.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaurentMartins40/Async-Await/issues"
+  },
+  "homepage": "https://github.com/LaurentMartins40/Async-Await#readme"
+}
